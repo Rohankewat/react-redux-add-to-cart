@@ -1,0 +1,8 @@
+.page1_main {
+    display: inline-block;
+    border-radius: 12px;
+    width: 400px;
+    margin: 12px;
+    padding: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
